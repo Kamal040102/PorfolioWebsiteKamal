@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap');
+
+.navbar{
+    background-color: white;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+.navbarIndexItem{
+    list-style-type: none;
+    font-size: 22px;
+}
+
+.navbarIndexItem a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbarIndexItem a:hover{
+    color: rgb(0, 119, 255);
+}
